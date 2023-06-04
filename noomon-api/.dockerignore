@@ -1,0 +1,21 @@
+# Ignore Gradle build output
+/build/
+/out/
+
+# Ignore Gradle cache
+/.gradle/
+
+# Ignore IDE-specific files and directories
+.idea/
+*.iml
+.gradle/
+.gradle.kts/
+.vscode/
+
+# Ignore version control files
+.git/
+.gitignore
+
+# Ignore miscellaneous files
+*.log
+.DS_Store
