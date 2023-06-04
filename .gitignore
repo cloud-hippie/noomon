@@ -14,3 +14,8 @@ out/
 .classpath
 .factorypath
 bin/
+
+# For the react UI
+node_modules/
+package-lock.json
+
