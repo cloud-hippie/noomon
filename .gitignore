@@ -19,3 +19,7 @@ bin/
 node_modules/
 package-lock.json
 
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
